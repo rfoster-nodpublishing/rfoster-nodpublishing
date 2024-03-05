@@ -8,8 +8,6 @@
 
 - 📫 How to reach me: You can shoot me an email at rfoster@nodpublishing.com or follow me on LinkedIn under Riley Foster. I'm always open to discussing new ideas, potential collaborations, or just geeking out about the latest in tech and publishing.
 
-- 😄 Pronouns: He/Him
-
 - ⚡ Fun fact: Before moving to Seattle and joining Nod Publishing, I worked at Early Riser Publishing, where I was involved in writing software to digitize their historical publications. This experience not only honed my skills in digital preservation but also sparked my interest in how technology can revolutionize the way we interact with literature.
 
 When I'm not coding or buried in the latest tech trends, you can find me navigating the streets of Downtown Seattle on my electric scooter, exploring the vibrant culture of this incredible city. Having moved here from the Tri-Cities area of Washington, I've fallen in love with Seattle's unique blend of natural beauty and urban innovation. It's the perfect backdrop for dreaming up the next big thing in digital publishing.
